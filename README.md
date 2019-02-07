@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough 
 
-[http://recordit.co/0pC4EyVLjh]
+http://recordit.co/0pC4EyVLjh
 
 
 ## Notes
