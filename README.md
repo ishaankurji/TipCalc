@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough 
 
-<img src='http://recordit.co/0pC4EyVLjh' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[http://recordit.co/0pC4EyVLjh]
 
 
 ## Notes
